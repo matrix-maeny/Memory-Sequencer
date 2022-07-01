@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog_background"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="This Section is used for Remembering/Revising things with the help of clues/hints which you've created earlier.\n\nBy clicking the ROLL button or on the content pallet, it starts showing random hints of that particular content.\nEvery click will give you a random hint. You need to remember the content behind it.\n\nIf the content has no Sequences, then you've to go back and edit the content and add Sequences.\n\nAfter completion of one cycle of all hints, it will show a message to restart. \n\nYou can restart by long press on ROLL button or on the content pallet.\n\nTo view the content/Summary/Answer linked with the hint, you need to press the VIEW CONTENT button."
+        android:textColor="#1B1B1B" />
+
+</LinearLayout>

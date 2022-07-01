@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Memory Sequencer</string>
+    <string name="empty">Empty</string>
+    <string name="add">Add</string>
+    <string name="sequence_name">Sequence name</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete all</string>
+    <string name="view_content">View content</string>
+    <string name="hide_content">Hide content</string>
+    <string name="play">Play</string>
+    <string name="edit">Edit/Add Sequence</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_sequence_title">Enter content title :</string>
+    <string name="ok">OK</string>
+    <string name="show_add_button">Show Add Button</string>
+    <string name="hide_add_button">Hide Add Button</string>
+    <string name="about_text">About</string>
+    <string name="save">Save</string>
+    <string name="enter_hint">Enter hint :</string>
+    <string name="enter_hint_">Enter hint…!</string>
+    <string name="enter_content_to_revise">Enter content to revise..!</string>
+    <string name="roll">Roll</string>
+    <string name="click_on_me_to_start">Click on me to start</string>
+    <string name="info">Info</string>
+</resources>

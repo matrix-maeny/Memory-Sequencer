@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog_background"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="This section is used for adding main contents.\n\nTo add main contents, click on the plus button at the top right corner and press OK after filling details.\n\nAfter that it will create a new Content.\n\nClick on the main Content, it will direct to the Sequencer Section, where you start revising topics with hints.\n\nLong press on the content to get the options Edit/Add Sequence, Delete, Delete all.\n\nEdit/Add Sequence option is used for adding sequences, Delete is used for deleting that particular content and Delete all will delete everything."
+        android:textColor="#1B1B1B" />
+</LinearLayout>
